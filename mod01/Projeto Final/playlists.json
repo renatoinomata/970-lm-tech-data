@@ -1,0 +1,193 @@
+{
+    "random_playlist#01": {
+        "nome_musica": [
+            "Glory Days",
+            "Stranger in Moscow",
+            "Gimme More"
+        ],
+        "id_musica": [
+            297,
+            1345,
+            278
+        ],
+        "nome_artista": [
+            "Bruce Springsteen",
+            "Michael Jackson",
+            "Britney Spears"
+        ]
+    },
+    "random_playlist#02": {
+        "nome_musica": [
+            "Aston Martin Music",
+            "Let It Be - Remastered 2009",
+            "A.M.",
+            "Intro",
+            "Why You Wanna"
+        ],
+        "id_musica": [
+            1616,
+            1816,
+            1457,
+            820,
+            1754
+        ],
+        "nome_artista": [
+            "Rick Ross",
+            "The Beatles",
+            "One Direction",
+            "J. Cole",
+            "T.I."
+        ]
+    },
+    "random_playlist#03": {
+        "nome_musica": [
+            "Jet Black Heart",
+            "Don't Tell Me",
+            "Angel"
+        ],
+        "id_musica": [
+            16,
+            158,
+            1239
+        ],
+        "nome_artista": [
+            "5 Seconds of Summer",
+            "Avril Lavigne",
+            "Madonna"
+        ]
+    },
+    "random_playlist#04": {
+        "nome_musica": [
+            "The Hills",
+            "My Way",
+            "All About That Bass",
+            "Beat It",
+            "Scott Mescudi Vs. The World"
+        ],
+        "id_musica": [
+            1896,
+            2033,
+            1313,
+            1351,
+            1053
+        ],
+        "nome_artista": [
+            "The Weeknd",
+            "Usher",
+            "Meghan Trainor",
+            "Michael Jackson",
+            "Kid Cudi"
+        ]
+    },
+    "random_playlist#05": {
+        "nome_musica": [
+            "Lust",
+            "Hair",
+            "Infinity",
+            "Let Me Love You (Until You Learn To Love Yourself)",
+            "Try Sleeping with a Broken Heart"
+        ],
+        "id_musica": [
+            1106,
+            1080,
+            1460,
+            1421,
+            124
+        ],
+        "nome_artista": [
+            "Lil Skies",
+            "Lady Gaga",
+            "One Direction",
+            "Ne-Yo",
+            "Alicia Keys"
+        ]
+    },
+    "random_playlist#06": {
+        "nome_musica": [
+            "When All Is Said And Done",
+            "In My Blood",
+            "Thugs Get Lonely Too"
+        ],
+        "id_musica": [
+            52,
+            1685,
+            7
+        ],
+        "nome_artista": [
+            "ABBA",
+            "Shawn Mendes",
+            "2Pac"
+        ]
+    },
+    "random_playlist#07": {
+        "nome_musica": [
+            "Topanga",
+            "Stir Fry",
+            "In the End",
+            "We're Almost There",
+            "Madness"
+        ],
+        "id_musica": [
+            1977,
+            1372,
+            1151,
+            1342,
+            1410
+        ],
+        "nome_artista": [
+            "Trippie Redd",
+            "Migos",
+            "Linkin Park",
+            "Michael Jackson",
+            "Muse"
+        ]
+    },
+    "random_playlist#08": {
+        "nome_musica": [
+            "Around the World",
+            "Speed of Sound"
+        ],
+        "id_musica": [
+            416,
+            408
+        ],
+        "nome_artista": [
+            "Daft Punk",
+            "Coldplay"
+        ]
+    },
+    "random_playlist#09": {
+        "nome_musica": [
+            "I Wanna Be Where You Are",
+            "Kids"
+        ],
+        "id_musica": [
+            1331,
+            1480
+        ],
+        "nome_artista": [
+            "Michael Jackson",
+            "OneRepublic"
+        ]
+    },
+    "random_playlist#10": {
+        "nome_musica": [
+            "Up Out My Face",
+            "Smile",
+            "Barcelona",
+            "Hypnotize"
+        ],
+        "id_musica": [
+            1275,
+            146,
+            568,
+            1866
+        ],
+        "nome_artista": [
+            "Mariah Carey",
+            "Avril Lavigne",
+            "Ed Sheeran",
+            "The Notorious B.I.G."
+        ]
+    }
+}

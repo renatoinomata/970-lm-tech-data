@@ -1,0 +1,3030 @@
+{
+    "Metallica": {
+        "nome_album": [
+            "...And Justice For All",
+            "Load",
+            "Metallica",
+            "Reload",
+            "Death Magnetic"
+        ],
+        "id_album": [
+            512,
+            513,
+            509,
+            510,
+            511
+        ]
+    },
+    "Led Zeppelin": {
+        "nome_album": [
+            "Led Zeppelin III (Remastered)",
+            "Led Zeppelin II",
+            "In Through The Out Door",
+            "Led Zeppelin IV (Deluxe Edition)",
+            "Physical Graffiti"
+        ],
+        "id_album": [
+            426,
+            427,
+            428,
+            429,
+            430
+        ]
+    },
+    "Post Malone": {
+        "nome_album": [
+            "beerbongs & bentleys",
+            "Stoney (Deluxe)"
+        ],
+        "id_album": [
+            606,
+            607
+        ]
+    },
+    "Russ": {
+        "nome_album": [
+            "There's Really A Wolf"
+        ],
+        "id_album": [
+            645
+        ]
+    },
+    "Alessia Cara": {
+        "nome_album": [
+            "Know-It-All (Deluxe)"
+        ],
+        "id_album": [
+            50
+        ]
+    },
+    "Marc Anthony": {
+        "nome_album": [
+            "3.0"
+        ],
+        "id_album": [
+            484
+        ]
+    },
+    "Rae Sremmurd": {
+        "nome_album": [
+            "SremmLife 2 (Deluxe)"
+        ],
+        "id_album": [
+            622
+        ]
+    },
+    "Sean Paul": {
+        "nome_album": [
+            "Dutty Rock",
+            "The Trinity",
+            "Imperial Blaze"
+        ],
+        "id_album": [
+            649,
+            650,
+            651
+        ]
+    },
+    "Michael Jackson": {
+        "nome_album": [
+            "HIStory - PAST, PRESENT AND FUTURE - BOOK I",
+            "Dangerous",
+            "Off the Wall",
+            "The Essential Michael Jackson",
+            "Forever Michael",
+            "Thriller 25 Super Deluxe Edition",
+            "BLOOD ON THE DANCE FLOOR/ HIStory In The Mix",
+            "Scream",
+            "Invincible",
+            "Anthology: The Best Of Michael Jackson",
+            "Got To Be There",
+            "XSCAPE",
+            "Number Ones",
+            "Music & Me"
+        ],
+        "id_album": [
+            514,
+            515,
+            516,
+            517,
+            518,
+            519,
+            520,
+            521,
+            522,
+            523,
+            524,
+            525,
+            526,
+            527
+        ]
+    },
+    "Luis Fonsi": {
+        "nome_album": [
+            "Paso A Paso",
+            "Palabras Del Silencio (Edici\u00f3n Aniversario - Un A\u00f1o Despues)"
+        ],
+        "id_album": [
+            456,
+            457
+        ]
+    },
+    "Halsey": {
+        "nome_album": [
+            "hopeless fountain kingdom (Deluxe)"
+        ],
+        "id_album": [
+            320
+        ]
+    },
+    "Lil Wayne": {
+        "nome_album": [
+            "Tha Block Is Hot",
+            "I Am Not A Human Being II (Deluxe)",
+            "Tha Carter II",
+            "Rebirth (International Explicit Deluxe Version)",
+            "500 Degreez",
+            "Tha Carter V",
+            "Tha Carter IV (Deluxe)",
+            "Tha Carter III"
+        ],
+        "id_album": [
+            437,
+            438,
+            439,
+            440,
+            441,
+            442,
+            443,
+            444
+        ]
+    },
+    "Kendrick Lamar": {
+        "nome_album": [
+            "To Pimp A Butterfly",
+            "DAMN.",
+            "good kid, m.A.A.d city (Deluxe)",
+            "Black Panther The Album Music From And Inspired By"
+        ],
+        "id_album": [
+            402,
+            403,
+            404,
+            405
+        ]
+    },
+    "Meek Mill": {
+        "nome_album": [
+            "Wins & Losses",
+            "DC4",
+            "Championships"
+        ],
+        "id_album": [
+            504,
+            505,
+            506
+        ]
+    },
+    "Rick Ross": {
+        "nome_album": [
+            "Teflon Don",
+            "Port Of Miami",
+            "Trilla",
+            "Deeper Than Rap"
+        ],
+        "id_album": [
+            632,
+            633,
+            630,
+            631
+        ]
+    },
+    "David Guetta": {
+        "nome_album": [
+            "One More Love"
+        ],
+        "id_album": [
+            189
+        ]
+    },
+    "Pink Floyd": {
+        "nome_album": [
+            "The Dark Side of the Moon",
+            "The Wall",
+            "The Division Bell",
+            "A Momentary Lapse of Reason"
+        ],
+        "id_album": [
+            595,
+            596,
+            597,
+            598
+        ]
+    },
+    "AC/DC": {
+        "nome_album": [
+            "For Those About to Rock (We Salute You)",
+            "Back In Black",
+            "The Razors Edge",
+            "Highway to Hell",
+            "Iron Man 2"
+        ],
+        "id_album": [
+            32,
+            28,
+            29,
+            30,
+            31
+        ]
+    },
+    "Tove Lo": {
+        "nome_album": [
+            "Lady Wood",
+            "Queen Of The Clouds"
+        ],
+        "id_album": [
+            769,
+            770
+        ]
+    },
+    "6ix9ine": {
+        "nome_album": [
+            "Day69: Graduation Day"
+        ],
+        "id_album": [
+            17
+        ]
+    },
+    "Wisin & Yandel": {
+        "nome_album": [
+            "Wisin Vs Yandel \"Los Extraterrestres\""
+        ],
+        "id_album": [
+            815
+        ]
+    },
+    "Alicia Keys": {
+        "nome_album": [
+            "The Diary Of Alicia Keys",
+            "As I Am (Expanded Edition)",
+            "Songs In A Minor (Expanded Edition)",
+            "The Element Of Freedom"
+        ],
+        "id_album": [
+            51,
+            52,
+            53,
+            54
+        ]
+    },
+    "U2": {
+        "nome_album": [
+            "Zooropa",
+            "All That You Can't Leave Behind",
+            "The Best Of 1980 - 1990",
+            "How To Dismantle An Atomic Bomb",
+            "The Joshua Tree (Super Deluxe)",
+            "Rattle And Hum",
+            "Achtung Baby (Deluxe Edition)",
+            "Pop",
+            "No Line On The Horizon",
+            "The Best Of 1990-2000 & B-Sides"
+        ],
+        "id_album": [
+            800,
+            791,
+            792,
+            793,
+            794,
+            795,
+            796,
+            797,
+            798,
+            799
+        ]
+    },
+    "Pharrell Williams": {
+        "nome_album": [
+            "G I R L"
+        ],
+        "id_album": [
+            588
+        ]
+    },
+    "Young Thug": {
+        "nome_album": [
+            "Slime Season 3",
+            "JEFFERY",
+            "Barter 6"
+        ],
+        "id_album": [
+            821,
+            822,
+            823
+        ]
+    },
+    "Bon Jovi": {
+        "nome_album": [
+            "Have A Nice Day",
+            "Keep The Faith",
+            "Crush",
+            "New Jersey (Deluxe Edition)",
+            "Slippery When Wet",
+            "Bon Jovi Greatest Hits - The Ultimate Collection (Deluxe)",
+            "The Circle",
+            "Cross Road",
+            "These Days"
+        ],
+        "id_album": [
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110,
+            111
+        ]
+    },
+    "Miguel": {
+        "nome_album": [
+            "Kaleidoscope Dream (Deluxe Version)",
+            "All I Want Is You",
+            "Wildheart (Deluxe Version)"
+        ],
+        "id_album": [
+            530,
+            531,
+            532
+        ]
+    },
+    "Maren Morris": {
+        "nome_album": [
+            "HERO (Deluxe Edition)"
+        ],
+        "id_album": [
+            485
+        ]
+    },
+    "Zara Larsson": {
+        "nome_album": [
+            "So Good"
+        ],
+        "id_album": [
+            826
+        ]
+    },
+    "Gucci Mane": {
+        "nome_album": [
+            "Hood Classics",
+            "The State vs. Radric Davis"
+        ],
+        "id_album": [
+            317,
+            318
+        ]
+    },
+    "Juice WRLD": {
+        "nome_album": [
+            "Goodbye & Good Riddance"
+        ],
+        "id_album": [
+            378
+        ]
+    },
+    "Bastille": {
+        "nome_album": [
+            "Bad Blood"
+        ],
+        "id_album": [
+            71
+        ]
+    },
+    "Khalid": {
+        "nome_album": [
+            "Free Spirit",
+            "Suncity",
+            "American Teen"
+        ],
+        "id_album": [
+            408,
+            409,
+            407
+        ]
+    },
+    "Ellie Goulding": {
+        "nome_album": [
+            "Delirium (Deluxe)",
+            "Halcyon Days"
+        ],
+        "id_album": [
+            218,
+            219
+        ]
+    },
+    "Kid Cudi": {
+        "nome_album": [
+            "Indicud",
+            "Man On The Moon II: The Legend Of Mr. Rager",
+            "Man On The Moon: The End Of Day (Int'l Version)"
+        ],
+        "id_album": [
+            410,
+            411,
+            412
+        ]
+    },
+    "Maluma": {
+        "nome_album": [
+            "F.A.M.E."
+        ],
+        "id_album": [
+            483
+        ]
+    },
+    "Bob Marley & The Wailers": {
+        "nome_album": [
+            "Rastaman Vibration"
+        ],
+        "id_album": [
+            102
+        ]
+    },
+    "Fleetwood Mac": {
+        "nome_album": [
+            "Say You Will",
+            "50 Years - Don't Stop",
+            "Greatest Hits",
+            "Tango In the Night (Deluxe Edition)",
+            "Behind the Mask",
+            "Rumours (Super Deluxe)"
+        ],
+        "id_album": [
+            276,
+            277,
+            278,
+            279,
+            280,
+            281
+        ]
+    },
+    "blink-182": {
+        "nome_album": [
+            "Take Off Your Pants And Jacket",
+            "blink-182",
+            "Neighborhoods (Deluxe Explicit Version)",
+            "California",
+            "Enema Of The State"
+        ],
+        "id_album": [
+            97,
+            98,
+            99,
+            100,
+            101
+        ]
+    },
+    "Charli XCX": {
+        "nome_album": [
+            "SUCKER"
+        ],
+        "id_album": [
+            143
+        ]
+    },
+    "Charlie Puth": {
+        "nome_album": [
+            "Nine Track Mind",
+            "Voicenotes"
+        ],
+        "id_album": [
+            144,
+            145
+        ]
+    },
+    "A Boogie Wit da Hoodie": {
+        "nome_album": [
+            "The Bigger Artist"
+        ],
+        "id_album": [
+            19
+        ]
+    },
+    "A$AP Rocky": {
+        "nome_album": [
+            "AT.LONG.LAST.A$AP",
+            "LONG.LIVE.A$AP (Deluxe Version)"
+        ],
+        "id_album": [
+            20,
+            21
+        ]
+    },
+    "Fall Out Boy": {
+        "nome_album": [
+            "American Beauty/American Psycho",
+            "Infinity On High",
+            "From Under The Cork Tree",
+            "Folie \u00e0 Deux",
+            "Save Rock And Roll"
+        ],
+        "id_album": [
+            270,
+            271,
+            272,
+            273,
+            274
+        ]
+    },
+    "Jhene Aiko": {
+        "nome_album": [
+            "Sail Out"
+        ],
+        "id_album": [
+            361
+        ]
+    },
+    "SZA": {
+        "nome_album": [
+            "Ctrl"
+        ],
+        "id_album": [
+            696
+        ]
+    },
+    "Elvis Presley": {
+        "nome_album": [
+            "Almost in Love",
+            "Spinout",
+            "Speedway",
+            "Promised Land",
+            "Frankie & Johnny",
+            "Clambake",
+            "Elvis 30 #1 Hits",
+            "Today (Legacy Edition)",
+            "Elvis' Gold Records, Vol. 4",
+            "Girl Happy",
+            "Elvis Now",
+            "Aloha from Hawaii via Satellite (Legacy Edition)",
+            "Double Trouble",
+            "How Great Thou Art",
+            "Kissin' Cousins",
+            "Elvis Is Back",
+            "From Elvis in Memphis"
+        ],
+        "id_album": [
+            256,
+            257,
+            258,
+            259,
+            243,
+            244,
+            245,
+            246,
+            247,
+            248,
+            249,
+            250,
+            251,
+            252,
+            253,
+            254,
+            255
+        ]
+    },
+    "Chris Stapleton": {
+        "nome_album": [
+            "From A Room: Volume 1",
+            "From A Room: Volume 2",
+            "Traveller"
+        ],
+        "id_album": [
+            154,
+            155,
+            156
+        ]
+    },
+    "Enrique Iglesias": {
+        "nome_album": [
+            "Escape",
+            "SEX AND LOVE"
+        ],
+        "id_album": [
+            268,
+            269
+        ]
+    },
+    "Jeremih": {
+        "nome_album": [
+            "Late Nights: The Album",
+            "Jeremih"
+        ],
+        "id_album": [
+            360,
+            359
+        ]
+    },
+    "50 Cent": {
+        "nome_album": [
+            "Get Rich Or Die Tryin'",
+            "Curtis",
+            "Before I Self-Destruct",
+            "The Massacre",
+            "Best Of 50 Cent"
+        ],
+        "id_album": [
+            12,
+            13,
+            14,
+            15,
+            16
+        ]
+    },
+    "Juanes": {
+        "nome_album": [
+            "Mi Sangre",
+            "La Vida Es Un Ratico"
+        ],
+        "id_album": [
+            376,
+            377
+        ]
+    },
+    "Lady Gaga": {
+        "nome_album": [
+            "ARTPOP",
+            "The Cure",
+            "The Fame",
+            "Joanne (Deluxe)",
+            "Born This Way (International Special Edition Version)"
+        ],
+        "id_album": [
+            418,
+            419,
+            420,
+            421,
+            422
+        ]
+    },
+    "The Killers": {
+        "nome_album": [
+            "Sam's Town",
+            "Battle Born",
+            "Sawdust",
+            "Day & Age (Bonus Tracks)",
+            "Hot Fuss"
+        ],
+        "id_album": [
+            736,
+            737,
+            733,
+            734,
+            735
+        ]
+    },
+    "Luke Bryan": {
+        "nome_album": [
+            "Kill The Lights (Deluxe)",
+            "Spring Break...Checkin' Out",
+            "Crash My Party",
+            "Doin' My Thing",
+            "Tailgates & Tanlines",
+            "I'll Stay Me",
+            "What Makes You Country",
+            "Spring Break...Here To Party"
+        ],
+        "id_album": [
+            458,
+            459,
+            460,
+            461,
+            462,
+            463,
+            464,
+            465
+        ]
+    },
+    "Sam Smith": {
+        "nome_album": [
+            "The Thrill Of It All (Special Edition)",
+            "In The Lonely Hour"
+        ],
+        "id_album": [
+            646,
+            647
+        ]
+    },
+    "Aloe Blacc": {
+        "nome_album": [
+            "Lift Your Spirit"
+        ],
+        "id_album": [
+            55
+        ]
+    },
+    "Big Sean": {
+        "nome_album": [
+            "Hall Of Fame (Deluxe)",
+            "I Decided."
+        ],
+        "id_album": [
+            78,
+            79
+        ]
+    },
+    "Mumford & Sons": {
+        "nome_album": [
+            "Sigh No More",
+            "Wilder Mind",
+            "Babel"
+        ],
+        "id_album": [
+            538,
+            539,
+            540
+        ]
+    },
+    "Jason Aldean": {
+        "nome_album": [
+            "Wide Open",
+            "My Kinda Party",
+            "Night Train",
+            "Old Boots, New Dirt",
+            "Rearview Town",
+            "Relentless",
+            "They Don't Know"
+        ],
+        "id_album": [
+            337,
+            338,
+            339,
+            340,
+            341,
+            342,
+            343
+        ]
+    },
+    "DJ Khaled": {
+        "nome_album": [
+            "Victory",
+            "We Global"
+        ],
+        "id_album": [
+            196,
+            197
+        ]
+    },
+    "Coldplay": {
+        "nome_album": [
+            "Viva La Vida or Death and All His Friends",
+            "A Head Full of Dreams",
+            "X&Y",
+            "Mylo Xyloto",
+            "Parachutes",
+            "A Rush of Blood to the Head",
+            "Ghost Stories"
+        ],
+        "id_album": [
+            162,
+            163,
+            164,
+            165,
+            166,
+            167,
+            168
+        ]
+    },
+    "G-Eazy": {
+        "nome_album": [
+            "The Beautiful & Damned",
+            "When It's Dark Out"
+        ],
+        "id_album": [
+            307,
+            308
+        ]
+    },
+    "Queen": {
+        "nome_album": [
+            "A Kind Of Magic (2011 Remaster)",
+            "A Night At The Opera (2011 Remaster)",
+            "Bohemian Rhapsody (The Original Soundtrack)",
+            "A Day At The Races (Deluxe Edition 2011 Remaster)",
+            "Jazz (2011 Remaster)",
+            "The Miracle (Deluxe Edition 2011 Remaster)",
+            "News Of The World (2011 Remaster)",
+            "The Works (2011 Remaster)"
+        ],
+        "id_album": [
+            611,
+            612,
+            613,
+            614,
+            615,
+            616,
+            617,
+            618
+        ]
+    },
+    "6LACK": {
+        "nome_album": [
+            "FREE 6LACK"
+        ],
+        "id_album": [
+            18
+        ]
+    },
+    "Rich The Kid": {
+        "nome_album": [
+            "The World Is Yours"
+        ],
+        "id_album": [
+            629
+        ]
+    },
+    "Trey Songz": {
+        "nome_album": [
+            "I Gotta Make It",
+            "Inevitable",
+            "Passion, Pain & Pleasure",
+            "Trey Day (U.S. Version)",
+            "Chapter V (Deluxe)",
+            "Ready",
+            "Tremaine The Album",
+            "Trigga Reloaded"
+        ],
+        "id_album": [
+            774,
+            775,
+            776,
+            777,
+            778,
+            779,
+            780,
+            781
+        ]
+    },
+    "Bryson Tiller": {
+        "nome_album": [
+            "True to Self",
+            "T R A P S O U L"
+        ],
+        "id_album": [
+            136,
+            137
+        ]
+    },
+    "Maroon 5": {
+        "nome_album": [
+            "It Won't Be Soon Before Long (International Version)",
+            "V",
+            "Red Pill Blues (Deluxe)",
+            "Songs About Jane: 10th Anniversary Edition",
+            "Overexposed Track By Track",
+            "Hands All Over (Revised International Standard version)"
+        ],
+        "id_album": [
+            498,
+            499,
+            500,
+            501,
+            502,
+            503
+        ]
+    },
+    "Phil Collins": {
+        "nome_album": [
+            "Love Songs (A Compilation Old and New)",
+            "Dance Into The Light (Deluxe Edition)",
+            "The Singles (Expanded)",
+            "...But Seriously (Deluxe Edition)",
+            "Serious Hits...Live! (2019 Remaster)",
+            "No Jacket Required (Remastered)"
+        ],
+        "id_album": [
+            589,
+            590,
+            591,
+            592,
+            593,
+            594
+        ]
+    },
+    "Wiz Khalifa": {
+        "nome_album": [
+            "Blacc Hollywood (Deluxe)",
+            "O.N.I.F.C. (Deluxe)"
+        ],
+        "id_album": [
+            816,
+            817
+        ]
+    },
+    "Green Day": {
+        "nome_album": [
+            "Greatest Hits: God's Favorite Band",
+            "21st Century Breakdown",
+            "\u00a1UNO!",
+            "American Idiot"
+        ],
+        "id_album": [
+            313,
+            314,
+            315,
+            316
+        ]
+    },
+    "T-Pain": {
+        "nome_album": [
+            "Epiphany",
+            "THR33 RINGZ",
+            "Rappa Ternt Sanga"
+        ],
+        "id_album": [
+            697,
+            698,
+            699
+        ]
+    },
+    "Christina Aguilera": {
+        "nome_album": [
+            "Keeps Gettin' Better: A Decade of Hits",
+            "Back To Basics",
+            "Lotus (Deluxe Version)",
+            "Stripped",
+            "Bionic (Deluxe Version)"
+        ],
+        "id_album": [
+            160,
+            161,
+            157,
+            158,
+            159
+        ]
+    },
+    "Elton John": {
+        "nome_album": [
+            "The One",
+            "Captain Fantastic And The Brown Dirt Cowboy",
+            "Reg Strikes Back",
+            "The Big Picture",
+            "Ice On Fire",
+            "Caribou",
+            "Leather Jackets",
+            "Victim Of Love",
+            "Don't Shoot Me I'm Only The Piano Player",
+            "Love Songs",
+            "Breaking Hearts",
+            "A Single Man",
+            "Blue Moves",
+            "Goodbye Yellow Brick Road (Remastered)",
+            "21 At 33",
+            "To Be Continued...",
+            "Too Low For Zero",
+            "Made In England",
+            "Rock Of The Westies",
+            "Honky Chateau",
+            "Madman Across The Water",
+            "The Complete Thom Bell Sessions",
+            "Sleeping With The Past (Remastered with bonus tracks)"
+        ],
+        "id_album": [
+            220,
+            221,
+            222,
+            223,
+            224,
+            225,
+            226,
+            227,
+            228,
+            229,
+            230,
+            231,
+            232,
+            233,
+            234,
+            235,
+            236,
+            237,
+            238,
+            239,
+            240,
+            241,
+            242
+        ]
+    },
+    "Jonas Brothers": {
+        "nome_album": [
+            "A Little Bit Longer",
+            "Lines, Vines and Trying Times"
+        ],
+        "id_album": [
+            374,
+            375
+        ]
+    },
+    "PnB Rock": {
+        "nome_album": [
+            "GTTM: Goin Thru the Motions"
+        ],
+        "id_album": [
+            605
+        ]
+    },
+    "Ti\u00ebsto": {
+        "nome_album": [
+            "A Town Called Paradise"
+        ],
+        "id_album": [
+            767
+        ]
+    },
+    "BLACKPINK": {
+        "nome_album": [
+            "SQUARE UP"
+        ],
+        "id_album": [
+            96
+        ]
+    },
+    "Childish Gambino": {
+        "nome_album": [
+            "Awaken, My Love!"
+        ],
+        "id_album": [
+            146
+        ]
+    },
+    "Nicki Minaj": {
+        "nome_album": [
+            "The Pinkprint (International Deluxe Explicit)",
+            "Pink Friday",
+            "Queen",
+            "Pink Friday ... Roman Reloaded (Deluxe)"
+        ],
+        "id_album": [
+            552,
+            549,
+            550,
+            551
+        ]
+    },
+    "Radiohead": {
+        "nome_album": [
+            "Pablo Honey",
+            "In Rainbows",
+            "The Bends"
+        ],
+        "id_album": [
+            619,
+            620,
+            621
+        ]
+    },
+    "Romeo Santos": {
+        "nome_album": [
+            "Golden",
+            "F\u00f3rmula Vol. 1 (Deluxe Edition)",
+            "F\u00f3rmula, Vol. 2 (Deluxe Edition)"
+        ],
+        "id_album": [
+            642,
+            643,
+            644
+        ]
+    },
+    "Quavo": {
+        "nome_album": [
+            "Huncho Jack, Jack Huncho",
+            "QUAVO HUNCHO"
+        ],
+        "id_album": [
+            609,
+            610
+        ]
+    },
+    "Justin Bieber": {
+        "nome_album": [
+            "Believe (Deluxe Edition)",
+            "Under The Mistletoe (Deluxe Edition)",
+            "Never Say Never - The Remixes",
+            "My World 2.0",
+            "Purpose (Deluxe)"
+        ],
+        "id_album": [
+            384,
+            380,
+            381,
+            382,
+            383
+        ]
+    },
+    "Kehlani": {
+        "nome_album": [
+            "SweetSexySavage (Deluxe)"
+        ],
+        "id_album": [
+            401
+        ]
+    },
+    "Luke Combs": {
+        "nome_album": [
+            "This One's for You"
+        ],
+        "id_album": [
+            466
+        ]
+    },
+    "Nirvana": {
+        "nome_album": [
+            "Nevermind (Deluxe Edition)"
+        ],
+        "id_album": [
+            554
+        ]
+    },
+    "Rihanna": {
+        "nome_album": [
+            "ANTI (Deluxe)",
+            "Good Girl Gone Bad: Reloaded",
+            "Talk That Talk",
+            "A Girl Like Me",
+            "Rated R",
+            "Loud",
+            "Music Of The Sun",
+            "Unapologetic (Deluxe)"
+        ],
+        "id_album": [
+            640,
+            641,
+            634,
+            635,
+            636,
+            637,
+            638,
+            639
+        ]
+    },
+    "Dr. Dre": {
+        "nome_album": [
+            "2001"
+        ],
+        "id_album": [
+            199
+        ]
+    },
+    "John Mayer": {
+        "nome_album": [
+            "Paradise Valley",
+            "The Search for Everything",
+            "Continuum",
+            "Battle Studies",
+            "Heavier Things",
+            "Born and Raised",
+            "Room For Squares"
+        ],
+        "id_album": [
+            367,
+            368,
+            369,
+            370,
+            371,
+            372,
+            373
+        ]
+    },
+    "Avicii": {
+        "nome_album": [
+            "TRUE"
+        ],
+        "id_album": [
+            61
+        ]
+    },
+    "The Chainsmokers": {
+        "nome_album": [
+            "Memories...Do Not Open",
+            "Sick Boy",
+            "Paris"
+        ],
+        "id_album": [
+            730,
+            731,
+            732
+        ]
+    },
+    "Calvin Harris": {
+        "nome_album": [
+            "Motion"
+        ],
+        "id_album": [
+            140
+        ]
+    },
+    "Muse": {
+        "nome_album": [
+            "The 2nd Law",
+            "The Resistance"
+        ],
+        "id_album": [
+            541,
+            542
+        ]
+    },
+    "NF": {
+        "nome_album": [
+            "Perception"
+        ],
+        "id_album": [
+            548
+        ]
+    },
+    "Aerosmith": {
+        "nome_album": [
+            "Nine Lives",
+            "Gems",
+            "Aerosmith's Greatest Hits",
+            "Big Ones",
+            "Toys In The Attic",
+            "Permanent Vacation",
+            "Just Push Play",
+            "Draw The Line",
+            "Rocks",
+            "Get A Grip",
+            "Aerosmith"
+        ],
+        "id_album": [
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46
+        ]
+    },
+    "Daft Punk": {
+        "nome_album": [
+            "Homework",
+            "Discovery"
+        ],
+        "id_album": [
+            173,
+            174
+        ]
+    },
+    "George Ezra": {
+        "nome_album": [
+            "Wanted on Voyage"
+        ],
+        "id_album": [
+            309
+        ]
+    },
+    "The Weeknd": {
+        "nome_album": [
+            "Starboy",
+            "Trilogy",
+            "My Dear Melancholy,",
+            "Beauty Behind The Madness"
+        ],
+        "id_album": [
+            760,
+            761,
+            762,
+            763
+        ]
+    },
+    "Trippie Redd": {
+        "nome_album": [
+            "LIFE'S A TRIP",
+            "A Love Letter To You 3"
+        ],
+        "id_album": [
+            782,
+            783
+        ]
+    },
+    "Sia": {
+        "nome_album": [
+            "1000 Forms Of Fear",
+            "This Is Acting (Deluxe Version)"
+        ],
+        "id_album": [
+            664,
+            665
+        ]
+    },
+    "Ariana Grande": {
+        "nome_album": [
+            "Sweetener",
+            "Yours Truly",
+            "My Everything (Deluxe)",
+            "Dangerous Woman"
+        ],
+        "id_album": [
+            57,
+            58,
+            59,
+            60
+        ]
+    },
+    "Don Omar": {
+        "nome_album": [
+            "King Of Kings"
+        ],
+        "id_album": [
+            198
+        ]
+    },
+    "Usher": {
+        "nome_album": [
+            "8701",
+            "Raymond v Raymond (Expanded Edition)",
+            "Here I Stand",
+            "Looking 4 Myself (Expanded Edition)",
+            "Confessions (Expanded Edition)",
+            "My Way"
+        ],
+        "id_album": [
+            801,
+            802,
+            803,
+            804,
+            805,
+            806
+        ]
+    },
+    "Kodak Black": {
+        "nome_album": [
+            "Painting Pictures",
+            "Lil Big Pac",
+            "Dying To Live",
+            "Project Baby 2"
+        ],
+        "id_album": [
+            416,
+            417,
+            414,
+            415
+        ]
+    },
+    "Pitbull": {
+        "nome_album": [
+            "The Boatlift",
+            "El Mariel",
+            "Pitbull Starring In Rebelution",
+            "Planet Pit (Deluxe Version)",
+            "Original Hits"
+        ],
+        "id_album": [
+            599,
+            600,
+            601,
+            602,
+            603
+        ]
+    },
+    "Troye Sivan": {
+        "nome_album": [
+            "Bloom",
+            "Blue Neighbourhood (Deluxe)",
+            "TRXYE"
+        ],
+        "id_album": [
+            784,
+            785,
+            786
+        ]
+    },
+    "ZAYN": {
+        "nome_album": [
+            "Mind Of Mine (Deluxe Edition)"
+        ],
+        "id_album": [
+            827
+        ]
+    },
+    "Dua Lipa": {
+        "nome_album": [
+            "Dua Lipa (Deluxe)"
+        ],
+        "id_album": [
+            208
+        ]
+    },
+    "Future": {
+        "nome_album": [
+            "DS2 (Deluxe)",
+            "What A Time To Be Alive",
+            "SUPER SLIMEY",
+            "BEASTMODE 2",
+            "Pluto 3D",
+            "Future & Juice WRLD Present... WRLD ON DRUGS",
+            "EVOL",
+            "Honest"
+        ],
+        "id_album": [
+            299,
+            300,
+            301,
+            302,
+            303,
+            304,
+            305,
+            306
+        ]
+    },
+    "Tyler, The Creator": {
+        "nome_album": [
+            "Flower Boy"
+        ],
+        "id_album": [
+            790
+        ]
+    },
+    "Kevin Gates": {
+        "nome_album": [
+            "Islah (Deluxe)"
+        ],
+        "id_album": [
+            406
+        ]
+    },
+    "P!nk": {
+        "nome_album": [
+            "Beautiful Trauma",
+            "Funhouse (Deluxe Version)",
+            "M!ssundaztood (Deluxe Version)",
+            "The Truth About Love",
+            "I'm Not Dead",
+            "Greatest Hits...So Far!!!",
+            "Can't Take Me Home (Expanded Edition)"
+        ],
+        "id_album": [
+            566,
+            567,
+            568,
+            569,
+            570,
+            571,
+            572
+        ]
+    },
+    "Gorillaz": {
+        "nome_album": [
+            "Demon Days",
+            "Gorillaz"
+        ],
+        "id_album": [
+            312,
+            311
+        ]
+    },
+    "James Bay": {
+        "nome_album": [
+            "Chaos And The Calm"
+        ],
+        "id_album": [
+            336
+        ]
+    },
+    "Glee Cast": {
+        "nome_album": [
+            "Glee The 3D Concert Movie (Motion Picture Soundtrack)"
+        ],
+        "id_album": [
+            310
+        ]
+    },
+    "Miley Cyrus": {
+        "nome_album": [
+            "Younger Now",
+            "The Time Of Our Lives (International Version)",
+            "Bangerz (Deluxe Version)",
+            "Can't Be Tamed",
+            "Breakout"
+        ],
+        "id_album": [
+            533,
+            534,
+            535,
+            536,
+            537
+        ]
+    },
+    "Snoop Dogg": {
+        "nome_album": [
+            "The Best Of Snoop Dogg",
+            "Tha Blue Carpet Treatment",
+            "More Malice",
+            "Malice 'N Wonderland",
+            "R&G (Rhythm & Gangsta): The Masterpiece"
+        ],
+        "id_album": [
+            672,
+            673,
+            669,
+            670,
+            671
+        ]
+    },
+    "The 1975": {
+        "nome_album": [
+            "The 1975",
+            "I like it when you sleep, for you are so beautiful yet so unaware of it"
+        ],
+        "id_album": [
+            712,
+            713
+        ]
+    },
+    "Julia Michaels": {
+        "nome_album": [
+            "Nervous System"
+        ],
+        "id_album": [
+            379
+        ]
+    },
+    "Logic": {
+        "nome_album": [
+            "Bobby Tarantino II",
+            "Everybody"
+        ],
+        "id_album": [
+            454,
+            455
+        ]
+    },
+    "Lil Skies": {
+        "nome_album": [
+            "Life of a Dark Rose"
+        ],
+        "id_album": [
+            434
+        ]
+    },
+    "Ozuna": {
+        "nome_album": [
+            "Aura"
+        ],
+        "id_album": [
+            565
+        ]
+    },
+    "Ski Mask The Slump God": {
+        "nome_album": [
+            "STOKELEY"
+        ],
+        "id_album": [
+            666
+        ]
+    },
+    "T.I.": {
+        "nome_album": [
+            "Urban Legend",
+            "Paper Trail",
+            "No Mercy",
+            "Trouble Man: Heavy is the Head",
+            "Trap Muzik",
+            "King",
+            "T.I. VS T.I.P."
+        ],
+        "id_album": [
+            704,
+            705,
+            706,
+            700,
+            701,
+            702,
+            703
+        ]
+    },
+    "Dan + Shay": {
+        "nome_album": [
+            "Where It All Began",
+            "Obsessed",
+            "Dan + Shay"
+        ],
+        "id_album": [
+            176,
+            177,
+            175
+        ]
+    },
+    "Lil Pump": {
+        "nome_album": [
+            "Lil Pump"
+        ],
+        "id_album": [
+            433
+        ]
+    },
+    "Shawn Mendes": {
+        "nome_album": [
+            "Shawn Mendes",
+            "Handwritten",
+            "Illuminate (Deluxe)"
+        ],
+        "id_album": [
+            661,
+            662,
+            663
+        ]
+    },
+    "Ne-Yo": {
+        "nome_album": [
+            "Year Of The Gentleman",
+            "Libra Scale",
+            "In My Own Words",
+            "Because Of You",
+            "R.E.D. (Deluxe Edition)"
+        ],
+        "id_album": [
+            544,
+            545,
+            546,
+            547,
+            543
+        ]
+    },
+    "J. Cole": {
+        "nome_album": [
+            "KOD",
+            "4 Your Eyez Only",
+            "2014 Forest Hills Drive",
+            "Cole World: The Sideline Story"
+        ],
+        "id_album": [
+            328,
+            329,
+            330,
+            327
+        ]
+    },
+    "Tory Lanez": {
+        "nome_album": [
+            "I Told You"
+        ],
+        "id_album": [
+            768
+        ]
+    },
+    "Thomas Rhett": {
+        "nome_album": [
+            "Life Changes",
+            "Tangled Up",
+            "It Goes Like This"
+        ],
+        "id_album": [
+            764,
+            765,
+            766
+        ]
+    },
+    "Avril Lavigne": {
+        "nome_album": [
+            "The Best Damn Thing (Expanded Edition)",
+            "Let Go",
+            "Goodbye Lullaby (Expanded Edition)",
+            "Under My Skin"
+        ],
+        "id_album": [
+            64,
+            65,
+            62,
+            63
+        ]
+    },
+    "David Bowie": {
+        "nome_album": [
+            "Tonight",
+            "1. Outside (Expanded Edition)",
+            "The Rise And Fall Of Ziggy Stardust And The Spiders From Mars (2012 Remastered Version)",
+            "Station To Station (2016 Remastered Version)",
+            "Young Americans (2016 Remastered Version)",
+            "Aladdin Sane (2013 Remastered Version)",
+            "Earthling (Expanded Edition)",
+            "Best Of Bowie",
+            "Let's Dance",
+            "Never Let Me Down",
+            "Blackstar"
+        ],
+        "id_album": [
+            178,
+            179,
+            180,
+            181,
+            182,
+            183,
+            184,
+            185,
+            186,
+            187,
+            188
+        ]
+    },
+    "KIDS SEE GHOSTS": {
+        "nome_album": [
+            "KIDS SEE GHOSTS"
+        ],
+        "id_album": [
+            413
+        ]
+    },
+    "Britney Spears": {
+        "nome_album": [
+            "Greatest Hits: My Prerogative",
+            "The Singles Collection",
+            "Blackout",
+            "...Baby One More Time (Digital Deluxe Version)",
+            "Circus (Deluxe Version)",
+            "Oops!... I Did It Again",
+            "In The Zone",
+            "Britney Jean (Deluxe Version)",
+            "Femme Fatale (Deluxe Version)"
+        ],
+        "id_album": [
+            112,
+            113,
+            114,
+            115,
+            116,
+            117,
+            118,
+            119,
+            120
+        ]
+    },
+    "blackbear": {
+        "nome_album": [
+            "digital druglord"
+        ],
+        "id_album": [
+            95
+        ]
+    },
+    "Meghan Trainor": {
+        "nome_album": [
+            "Thank You (Deluxe Version)",
+            "Title (Deluxe)"
+        ],
+        "id_album": [
+            507,
+            508
+        ]
+    },
+    "Beyonc\u00e9": {
+        "nome_album": [
+            "I AM...SASHA FIERCE",
+            "4",
+            "Lemonade",
+            "B'Day Deluxe Edition"
+        ],
+        "id_album": [
+            74,
+            75,
+            76,
+            77
+        ]
+    },
+    "Whitney Houston": {
+        "nome_album": [
+            "I'm Your Baby Tonight",
+            "Whitney",
+            "My Love Is Your Love",
+            "Whitney The Greatest Hits",
+            "The Bodyguard - Original Soundtrack Album",
+            "Just Whitney",
+            "I Look To You",
+            "I Wish You Love: More From The Bodyguard"
+        ],
+        "id_album": [
+            807,
+            808,
+            809,
+            810,
+            811,
+            812,
+            813,
+            814
+        ]
+    },
+    "XXXTENTACION": {
+        "nome_album": [
+            "17",
+            "?",
+            "SKINS"
+        ],
+        "id_album": [
+            818,
+            819,
+            820
+        ]
+    },
+    "Drake": {
+        "nome_album": [
+            "If You're Reading This It's Too Late",
+            "Views",
+            "Thank Me Later (Int'l Version)",
+            "So Far Gone",
+            "Scorpion",
+            "Nothing Was The Same (Deluxe)",
+            "Take Care (Deluxe)",
+            "More Life"
+        ],
+        "id_album": [
+            200,
+            201,
+            202,
+            203,
+            204,
+            205,
+            206,
+            207
+        ]
+    },
+    "Ed Sheeran": {
+        "nome_album": [
+            "\u00f7 (Deluxe)",
+            "x (Deluxe Edition)"
+        ],
+        "id_album": [
+            216,
+            215
+        ]
+    },
+    "Panic! At The Disco": {
+        "nome_album": [
+            "A Fever You Can't Sweat Out",
+            "Vices & Virtues",
+            "Death of a Bachelor",
+            "Too Weird To Live, Too Rare To Die!",
+            "Pray for the Wicked"
+        ],
+        "id_album": [
+            576,
+            577,
+            573,
+            574,
+            575
+        ]
+    },
+    "Chris Brown": {
+        "nome_album": [
+            "X (Expanded Edition)",
+            "Fortune (Expanded Edition)",
+            "F.A.M.E. (Expanded Edition)",
+            "Graffiti (Expanded Edition)",
+            "Royalty (Deluxe Version)",
+            "Exclusive (Expanded Edition)",
+            "Heartbreak on a Full Moon"
+        ],
+        "id_album": [
+            147,
+            148,
+            149,
+            150,
+            151,
+            152,
+            153
+        ]
+    },
+    "Eagles": {
+        "nome_album": [
+            "Hotel California (2013 Remaster)",
+            "The Complete Greatest Hits (Remastered)",
+            "One of These Nights (2013 Remaster)",
+            "Hell Freezes Over (Remaster 2018)",
+            "On The Border (Remastered)",
+            "Desperado (2013 Remaster)"
+        ],
+        "id_album": [
+            209,
+            210,
+            211,
+            212,
+            213,
+            214
+        ]
+    },
+    "Mariah Carey": {
+        "nome_album": [
+            "Merry Christmas",
+            "Charmbracelet",
+            "Me. I Am Mariah\u2026The Elusive Chanteuse (Deluxe)",
+            "Emotions",
+            "Memoirs of an imperfect Angel (International Version)",
+            "Greatest Hits",
+            "Rainbow",
+            "The Emancipation of Mimi",
+            "#1 to Infinity",
+            "Butterfly",
+            "Daydream",
+            "Music Box"
+        ],
+        "id_album": [
+            486,
+            487,
+            488,
+            489,
+            490,
+            491,
+            492,
+            493,
+            494,
+            495,
+            496,
+            497
+        ]
+    },
+    "Jennifer Lopez": {
+        "nome_album": [
+            "On The 6",
+            "Love?",
+            "Dance Again...The Hits",
+            "This Is Me...Then",
+            "Brave",
+            "Rebirth",
+            "A.K.A. (Deluxe)"
+        ],
+        "id_album": [
+            352,
+            353,
+            354,
+            355,
+            356,
+            357,
+            358
+        ]
+    },
+    "Snow": {
+        "nome_album": [
+            "12 Inches Of Snow"
+        ],
+        "id_album": [
+            674
+        ]
+    },
+    "The Black Eyed Peas": {
+        "nome_album": [
+            "Elephunk",
+            "Bridging The Gap",
+            "THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version]",
+            "The Beginning",
+            "Monkey Business"
+        ],
+        "id_album": [
+            725,
+            726,
+            727,
+            728,
+            729
+        ]
+    },
+    "Eminem": {
+        "nome_album": [
+            "The Slim Shady LP",
+            "Recovery",
+            "Relapse: Refill",
+            "Kamikaze",
+            "The Eminem Show",
+            "The Marshall Mathers LP",
+            "Encore",
+            "Revival"
+        ],
+        "id_album": [
+            260,
+            261,
+            262,
+            263,
+            264,
+            265,
+            266,
+            267
+        ]
+    },
+    "Creedence Clearwater Revival": {
+        "nome_album": [
+            "Bayou Country (40th Anniversary Edition)",
+            "Mardi Gras"
+        ],
+        "id_album": [
+            169,
+            170
+        ]
+    },
+    "Bebe Rexha": {
+        "nome_album": [
+            "Expectations"
+        ],
+        "id_album": [
+            73
+        ]
+    },
+    "Akon": {
+        "nome_album": [
+            "Freedom",
+            "Konvicted",
+            "Trouble"
+        ],
+        "id_album": [
+            48,
+            49,
+            47
+        ]
+    },
+    "Foo Fighters": {
+        "nome_album": [
+            "One By One (Expanded Edition)",
+            "In Your Honor",
+            "Echoes, Silence, Patience & Grace",
+            "Greatest Hits",
+            "Wasting Light",
+            "There Is Nothing Left To Lose"
+        ],
+        "id_album": [
+            290,
+            291,
+            292,
+            293,
+            294,
+            295
+        ]
+    },
+    "Hailee Steinfeld": {
+        "nome_album": [
+            "HAIZ"
+        ],
+        "id_album": [
+            319
+        ]
+    },
+    "Imagine Dragons": {
+        "nome_album": [
+            "Night Visions",
+            "Evolve",
+            "Smoke + Mirrors (Deluxe)",
+            "Origins (Deluxe)"
+        ],
+        "id_album": [
+            322,
+            323,
+            324,
+            325
+        ]
+    },
+    "Shakira": {
+        "nome_album": [
+            "Fijaci\u00f3n Oral, Vol. 1",
+            "El Dorado",
+            "Sale el Sol",
+            "She Wolf (Expanded Edition)",
+            "Laundry Service",
+            "Oral Fixation, Vol. 2 (Expanded Edition)"
+        ],
+        "id_album": [
+            655,
+            656,
+            657,
+            658,
+            659,
+            660
+        ]
+    },
+    "The Beatles": {
+        "nome_album": [
+            "Yellow Submarine Songtrack",
+            "A Hard Day's Night (Remastered)",
+            "The Beatles",
+            "Love",
+            "The Beatles 1967 - 1970 (Remastered)",
+            "Past Masters (Vols. 1 & 2 / Remastered)",
+            "Please Please Me (Remastered)",
+            "Abbey Road (Remastered)",
+            "Help! (Remastered)",
+            "Let It Be (Remastered)",
+            "1 (Remastered)"
+        ],
+        "id_album": [
+            714,
+            715,
+            716,
+            717,
+            718,
+            719,
+            720,
+            721,
+            722,
+            723,
+            724
+        ]
+    },
+    "Red Hot Chili Peppers": {
+        "nome_album": [
+            "Stadium Arcadium",
+            "I'm with You",
+            "Californication (Deluxe Edition)",
+            "By the Way (Deluxe Edition)",
+            "Blood Sugar Sex Magik (Deluxe Edition)",
+            "The Getaway"
+        ],
+        "id_album": [
+            623,
+            624,
+            625,
+            626,
+            627,
+            628
+        ]
+    },
+    "Jason Mraz": {
+        "nome_album": [
+            "Know.",
+            "Mr. A-Z",
+            "Love Is A Four Letter Word",
+            "Waiting For My Rocket To Come",
+            "We Sing. We Dance. We Steal Things."
+        ],
+        "id_album": [
+            347,
+            348,
+            349,
+            350,
+            351
+        ]
+    },
+    "Mac Miller": {
+        "nome_album": [
+            "Swimming",
+            "Blue Slide Park"
+        ],
+        "id_album": [
+            467,
+            468
+        ]
+    },
+    "James Arthur": {
+        "nome_album": [
+            "Back from the Edge"
+        ],
+        "id_album": [
+            335
+        ]
+    },
+    "ScHoolboy Q": {
+        "nome_album": [
+            "Oxymoron (Deluxe)"
+        ],
+        "id_album": [
+            648
+        ]
+    },
+    "Ella Mai": {
+        "nome_album": [
+            "READY"
+        ],
+        "id_album": [
+            217
+        ]
+    },
+    "J Balvin": {
+        "nome_album": [
+            "Energ\u00eda"
+        ],
+        "id_album": [
+            326
+        ]
+    },
+    "2 Chainz": {
+        "nome_album": [
+            "B.O.A.T.S. II #METIME",
+            "Based On A T.R.U. Story (Deluxe)"
+        ],
+        "id_album": [
+            1,
+            2
+        ]
+    },
+    "Guns N' Roses": {
+        "nome_album": [
+            "Use Your Illusion II",
+            "Appetite For Destruction",
+            "The Spaghetti Incident?",
+            "G N' R Lies",
+            "Use Your Illusion I",
+            "Chinese Democracy"
+        ],
+        "id_album": [
+            832,
+            833,
+            828,
+            829,
+            830,
+            831
+        ]
+    },
+    "Kanye West": {
+        "nome_album": [
+            "The Life Of Pablo",
+            "Late Registration",
+            "The College Dropout",
+            "Yeezus",
+            "My Beautiful Dark Twisted Fantasy",
+            "808s & Heartbreak",
+            "Graduation"
+        ],
+        "id_album": [
+            391,
+            392,
+            393,
+            394,
+            395,
+            396,
+            397
+        ]
+    },
+    "Stevie Wonder": {
+        "nome_album": [
+            "For Once In My Life",
+            "Songs In The Key Of Life",
+            "Up-Tight Everything's Alright",
+            "A Time To Love",
+            "My Cherie Amour",
+            "Conversation Peace",
+            "Signed, Sealed And Delivered",
+            "Journey Through The Secret Life Of Plants",
+            "Music Of My Mind",
+            "Down To Earth",
+            "Hotter Than July",
+            "Innervisions",
+            "Music From The Movie \"Jungle Fever\"",
+            "In Square Circle",
+            "Talking Book",
+            "I Was Made To Love Her",
+            "Where I'm Coming From",
+            "Characters"
+        ],
+        "id_album": [
+            675,
+            676,
+            677,
+            678,
+            679,
+            680,
+            681,
+            682,
+            683,
+            684,
+            685,
+            686,
+            687,
+            688,
+            689,
+            690,
+            691,
+            692
+        ]
+    },
+    "Kane Brown": {
+        "nome_album": [
+            "Experiment"
+        ],
+        "id_album": [
+            390
+        ]
+    },
+    "Justin Timberlake": {
+        "nome_album": [
+            "Justified",
+            "The 20/20 Experience - 2 of 2 (Deluxe)",
+            "Man of the Woods",
+            "FutureSex/LoveSounds Deluxe Edition",
+            "The 20/20 Experience (Deluxe Version)"
+        ],
+        "id_album": [
+            385,
+            386,
+            387,
+            388,
+            389
+        ]
+    },
+    "Taylor Swift": {
+        "nome_album": [
+            "1989 (Deluxe)",
+            "Fearless (Big Machine Radio Release Special)",
+            "reputation",
+            "Speak Now",
+            "Red (Big Machine Radio Release Special)"
+        ],
+        "id_album": [
+            707,
+            708,
+            709,
+            710,
+            711
+        ]
+    },
+    "Frank Ocean": {
+        "nome_album": [
+            "Blonde",
+            "channel ORANGE (Explicit Version)"
+        ],
+        "id_album": [
+            296,
+            297
+        ]
+    },
+    "Backstreet Boys": {
+        "nome_album": [
+            "Unbreakable",
+            "The Hits--Chapter One",
+            "Millennium",
+            "Black & Blue",
+            "Never Gone"
+        ],
+        "id_album": [
+            66,
+            67,
+            68,
+            69,
+            70
+        ]
+    },
+    "Five Finger Death Punch": {
+        "nome_album": [
+            "American Capitalist (Deluxe)"
+        ],
+        "id_album": [
+            275
+        ]
+    },
+    "Travis Scott": {
+        "nome_album": [
+            "ASTROWORLD",
+            "Birds In The Trap Sing McKnight",
+            "Rodeo (Expanded Edition)"
+        ],
+        "id_album": [
+            771,
+            772,
+            773
+        ]
+    },
+    "Madonna": {
+        "nome_album": [
+            "I'm Breathless",
+            "Celebration (double disc version)",
+            "Confessions on a Dance Floor",
+            "Like a Virgin (Reissue)",
+            "American Life",
+            "Ray of Light (U.S. Version)",
+            "True Blue (Reissue)",
+            "Bedtime Stories",
+            "Music",
+            "Like a Prayer",
+            "The Immaculate Collection",
+            "Erotica (PA Version)",
+            "Something to Remember",
+            "Hard Candy"
+        ],
+        "id_album": [
+            480,
+            481,
+            482,
+            469,
+            470,
+            471,
+            472,
+            473,
+            474,
+            475,
+            476,
+            477,
+            478,
+            479
+        ]
+    },
+    "Oasis": {
+        "nome_album": [
+            "Dig Out Your Soul"
+        ],
+        "id_album": [
+            555
+        ]
+    },
+    "Bruce Springsteen": {
+        "nome_album": [
+            "Tunnel Of Love",
+            "Devils & Dust",
+            "The Promise",
+            "Born To Run",
+            "Working On A Dream",
+            "The River",
+            "Greatest Hits",
+            "Darkness On the Edge of Town",
+            "The Rising",
+            "Human Touch",
+            "Born In The U.S.A.",
+            "Magic"
+        ],
+        "id_album": [
+            128,
+            129,
+            130,
+            131,
+            132,
+            121,
+            122,
+            123,
+            124,
+            125,
+            126,
+            127
+        ]
+    },
+    "System Of A Down": {
+        "nome_album": [
+            "Hypnotize",
+            "Mezmerize",
+            "Toxicity"
+        ],
+        "id_album": [
+            693,
+            694,
+            695
+        ]
+    },
+    "Selena Gomez": {
+        "nome_album": [
+            "Stars Dance (Bonus Track Version)",
+            "For You",
+            "Revival (Deluxe)"
+        ],
+        "id_album": [
+            652,
+            653,
+            654
+        ]
+    },
+    "Billie Eilish": {
+        "nome_album": [
+            "dont smile at me"
+        ],
+        "id_album": [
+            80
+        ]
+    },
+    "Cardi B": {
+        "nome_album": [
+            "Invasion of Privacy"
+        ],
+        "id_album": [
+            142
+        ]
+    },
+    "Hozier": {
+        "nome_album": [
+            "Hozier"
+        ],
+        "id_album": [
+            321
+        ]
+    },
+    "Playboi Carti": {
+        "nome_album": [
+            "Playboi Carti"
+        ],
+        "id_album": [
+            604
+        ]
+    },
+    "Lil Uzi Vert": {
+        "nome_album": [
+            "Lil Uzi Vert vs. The World",
+            "Luv Is Rage 2"
+        ],
+        "id_album": [
+            435,
+            436
+        ]
+    },
+    "Prince Royce": {
+        "nome_album": [
+            "Soy el Mismo"
+        ],
+        "id_album": [
+            608
+        ]
+    },
+    "ABBA": {
+        "nome_album": [
+            "Arrival",
+            "The Visitors (Deluxe Edition)",
+            "Waterloo",
+            "Super Trouper",
+            "The Album",
+            "Voulez-Vous"
+        ],
+        "id_album": [
+            22,
+            23,
+            24,
+            25,
+            26,
+            27
+        ]
+    },
+    "French Montana": {
+        "nome_album": [
+            "Excuse My French (Deluxe)"
+        ],
+        "id_album": [
+            298
+        ]
+    },
+    "Camila Cabello": {
+        "nome_album": [
+            "Camila"
+        ],
+        "id_album": [
+            141
+        ]
+    },
+    "Daddy Yankee": {
+        "nome_album": [
+            "El Cartel: The Big Boss",
+            "Barrio Fino (Bonus Track Version)"
+        ],
+        "id_album": [
+            171,
+            172
+        ]
+    },
+    "Pearl Jam": {
+        "nome_album": [
+            "No Code",
+            "Yield",
+            "Lightning Bolt",
+            "Binaural",
+            "Backspacer",
+            "Riot Act"
+        ],
+        "id_album": [
+            582,
+            583,
+            584,
+            585,
+            586,
+            587
+        ]
+    },
+    "Linkin Park": {
+        "nome_album": [
+            "A Thousand Suns",
+            "Meteora",
+            "Minutes to Midnight",
+            "LIVING THINGS",
+            "Numb/Encore: MTV Ultimate Mash-Ups Presents Collision Course",
+            "Hybrid Theory (Bonus Edition)"
+        ],
+        "id_album": [
+            448,
+            449,
+            450,
+            445,
+            446,
+            447
+        ]
+    },
+    "Jack Johnson": {
+        "nome_album": [
+            "Sleep Through The Static",
+            "In Between Dreams",
+            "To The Sea",
+            "From Here To Now To You"
+        ],
+        "id_album": [
+            331,
+            332,
+            333,
+            334
+        ]
+    },
+    "21 Savage": {
+        "nome_album": [
+            "Issa Album"
+        ],
+        "id_album": [
+            3
+        ]
+    },
+    "Paramore": {
+        "nome_album": [
+            "RIOT!",
+            "brand new eyes",
+            "Paramore",
+            "After Laughter"
+        ],
+        "id_album": [
+            578,
+            579,
+            580,
+            581
+        ]
+    },
+    "Tyga": {
+        "nome_album": [
+            "Careless World: Rise Of The Last King"
+        ],
+        "id_album": [
+            789
+        ]
+    },
+    "Nicky Jam": {
+        "nome_album": [
+            "F\u00e9nix"
+        ],
+        "id_album": [
+            553
+        ]
+    },
+    "One Direction": {
+        "nome_album": [
+            "FOUR (Deluxe)",
+            "Made In The A.M. (Deluxe Edition)",
+            "Up All Night",
+            "Midnight Memories (Deluxe)",
+            "Take Me Home: Yearbook Edition"
+        ],
+        "id_album": [
+            556,
+            557,
+            558,
+            559,
+            560
+        ]
+    },
+    "OneRepublic": {
+        "nome_album": [
+            "Native",
+            "Oh My My",
+            "Waking Up",
+            "Dreaming Out Loud (Deluxe)"
+        ],
+        "id_album": [
+            561,
+            562,
+            563,
+            564
+        ]
+    },
+    "Bruno Mars": {
+        "nome_album": [
+            "24K Magic",
+            "Doo-Wops & Hooligans",
+            "Unorthodox Jukebox"
+        ],
+        "id_album": [
+            133,
+            134,
+            135
+        ]
+    },
+    "Florida Georgia Line": {
+        "nome_album": [
+            "Here's To The Good Times",
+            "Dig Your Roots",
+            "Anything Goes"
+        ],
+        "id_album": [
+            288,
+            289,
+            287
+        ]
+    },
+    "YoungBoy Never Broke Again": {
+        "nome_album": [
+            "Until Death Call My Name",
+            "AI YoungBoy"
+        ],
+        "id_album": [
+            824,
+            825
+        ]
+    },
+    "Arctic Monkeys": {
+        "nome_album": [
+            "AM"
+        ],
+        "id_album": [
+            56
+        ]
+    },
+    "Billy Joel": {
+        "nome_album": [
+            "My Lives",
+            "The Nylon Curtain",
+            "The Bridge",
+            "Streetlife Serenade",
+            "The Stranger (Legacy Edition)",
+            "River Of Dreams",
+            "Turnstiles",
+            "Cold Spring Harbor",
+            "52nd Street",
+            "Storm Front",
+            "Glass Houses",
+            "Piano Man (Legacy Edition)",
+            "An Innocent Man"
+        ],
+        "id_album": [
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93
+        ]
+    },
+    "Lil Baby": {
+        "nome_album": [
+            "Street Gossip",
+            "Harder Than Ever"
+        ],
+        "id_album": [
+            432,
+            431
+        ]
+    },
+    "Little Mix": {
+        "nome_album": [
+            "Glory Days: The Platinum Edition",
+            "DNA: The Deluxe Edition",
+            "Get Weird (Deluxe)"
+        ],
+        "id_album": [
+            451,
+            452,
+            453
+        ]
+    },
+    "Twenty One Pilots": {
+        "nome_album": [
+            "Trench",
+            "Blurryface"
+        ],
+        "id_album": [
+            787,
+            788
+        ]
+    },
+    "The Lumineers": {
+        "nome_album": [
+            "Cleopatra",
+            "The Lumineers (Deluxe Edition)"
+        ],
+        "id_album": [
+            738,
+            739
+        ]
+    },
+    "Jason Derulo": {
+        "nome_album": [
+            "Future History (Deluxe Edition)",
+            "Jason Derulo (International)",
+            "Everything Is 4"
+        ],
+        "id_album": [
+            344,
+            345,
+            346
+        ]
+    },
+    "Flo Rida": {
+        "nome_album": [
+            "Only One Flo [Part 1]",
+            "Wild Ones",
+            "Mail On Sunday",
+            "R.O.O.T.S. (Route Of Overcoming The Struggle)",
+            "My House"
+        ],
+        "id_album": [
+            282,
+            283,
+            284,
+            285,
+            286
+        ]
+    },
+    "Demi Lovato": {
+        "nome_album": [
+            "Tell Me You Love Me (Deluxe)",
+            "Demi",
+            "Don't Forget",
+            "Confident (Deluxe Edition)",
+            "Here We Go Again",
+            "Unbroken"
+        ],
+        "id_album": [
+            192,
+            193,
+            194,
+            195,
+            190,
+            191
+        ]
+    },
+    "2Pac": {
+        "nome_album": [
+            "Strictly 4 My N.I.G.G.A.Z...",
+            "R U Still Down? [Remember Me]",
+            "Until The End Of Time",
+            "Me Against The World",
+            "Loyal To The Game",
+            "Better Dayz"
+        ],
+        "id_album": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ]
+    },
+    "Katy Perry": {
+        "nome_album": [
+            "PRISM (Deluxe)",
+            "One Of The Boys",
+            "Katy Perry - Teenage Dream: The Complete Confection"
+        ],
+        "id_album": [
+            400,
+            398,
+            399
+        ]
+    },
+    "Skrillex": {
+        "nome_album": [
+            "Scary Monsters and Nice Sprites (Deluxe Tour Edition)",
+            "More Monsters and Sprites EP"
+        ],
+        "id_album": [
+            667,
+            668
+        ]
+    },
+    "BTS": {
+        "nome_album": [
+            "Love Yourself \u8f49 'Tear'",
+            "Love Yourself \u627f 'Her'"
+        ],
+        "id_album": [
+            138,
+            139
+        ]
+    },
+    "The Notorious B.I.G.": {
+        "nome_album": [
+            "Duets: The Final Chapter",
+            "Greatest Hits (Explicit Version)"
+        ],
+        "id_album": [
+            740,
+            741
+        ]
+    },
+    "Lana Del Rey": {
+        "nome_album": [
+            "Honeymoon",
+            "Ultraviolence (Deluxe)",
+            "Lust For Life"
+        ],
+        "id_album": [
+            424,
+            425,
+            423
+        ]
+    },
+    "Migos": {
+        "nome_album": [
+            "Culture II",
+            "No Label II"
+        ],
+        "id_album": [
+            528,
+            529
+        ]
+    },
+    "Billy Ray Cyrus": {
+        "nome_album": [
+            "Some Gave All"
+        ],
+        "id_album": [
+            94
+        ]
+    },
+    "5 Seconds of Summer": {
+        "nome_album": [
+            "Sounds Good Feels Good (Deluxe)",
+            "Youngblood (Deluxe)"
+        ],
+        "id_album": [
+            10,
+            11
+        ]
+    },
+    "Bazzi": {
+        "nome_album": [
+            "COSMIC"
+        ],
+        "id_album": [
+            72
+        ]
+    },
+    "Adele": {
+        "nome_album": [
+            "21",
+            "25",
+            "19"
+        ],
+        "id_album": [
+            33,
+            34,
+            35
+        ]
+    },
+    "John Legend": {
+        "nome_album": [
+            "Once Again",
+            "Get Lifted",
+            "Love In The Future (Expanded Edition)",
+            "Evolver",
+            "DARKNESS AND LIGHT"
+        ],
+        "id_album": [
+            362,
+            363,
+            364,
+            365,
+            366
+        ]
+    },
+    "The Rolling Stones": {
+        "nome_album": [
+            "Bridges To Babylon (Remastered)",
+            "Between The Buttons",
+            "Voodoo Lounge (Remastered 2009)",
+            "12 X 5",
+            "Goats Head Soup (Remastered 2009)",
+            "December\u2019s Children (And Everybody\u2019s)",
+            "Through The Past, Darkly (Big Hits Vol. 2)",
+            "Tattoo You (2009 Re-Mastered)",
+            "got LIVE if you want it!",
+            "Hot Rocks (1964-1971)",
+            "Metamorphosis",
+            "Out Of Our Heads",
+            "Some Girls",
+            "Sticky Fingers (Remastered)",
+            "Let It Bleed",
+            "Aftermath",
+            "The Rolling Stones Singles Collection * The London Years",
+            "Steel Wheels (Remastered 2009)"
+        ],
+        "id_album": [
+            742,
+            743,
+            744,
+            745,
+            746,
+            747,
+            748,
+            749,
+            750,
+            751,
+            752,
+            753,
+            754,
+            755,
+            756,
+            757,
+            758,
+            759
+        ]
+    }
+}
