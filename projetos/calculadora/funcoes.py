@@ -20,3 +20,9 @@ def divisao(a, b):
         return a / b
     else:
         raise ZeroDivisionError(f'O input "b" deve ser diferente de zero')
+
+def multiplicacao(a, b):
+    if isinstance(a, (int, float)) and isinstance(b, (int, float)):
+        return a * b
+    else:
+        raise TypeError(f'O input "a" e "b" devem ser numéricos, recebido a = {a}, tipo = {type(a)} e b = {b}, tipo = {type(b)}')
