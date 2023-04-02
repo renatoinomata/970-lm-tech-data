@@ -2,4 +2,6 @@
 
 ## Desafio Git/GitHub
 
-Adicionar um programa de calculadora no GitHub.
+App de calculadora.
+
+Para executar o app digite o comando `python ...projetos/calculadora/app.py` substituindo `...` pelo diretório onde está localizado o projeto.

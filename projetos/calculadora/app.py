@@ -5,6 +5,7 @@ sys.path.insert(0, os.getcwd())
 from projetos.calculadora import calcule
 
 # Executando a aplicação
-calcule()
+resultado = calcule()
+print(f'O resultado é {resultado}')
 
-# Executar o código no terminal com python app.py
+# Executar o código no terminal com python .../app.py

@@ -10,7 +10,7 @@ def calcule():
     try:
         a = float(input_a)
         b = float(input_b)
-    except TypeError:
+    except:
         return 'Não foi possível converter algum dos valores para numérico.'
     
     # Definindo um dicionário para as operações
